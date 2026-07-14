@@ -4,10 +4,7 @@ I bridge the gap between complex AI models and production-ready enterprise syste
 
 ## Core Technical Competencies
 
-### AI & Machine Learning Systems
-* Infrastructure: Designing high-availability environments for LLM deployment and fine-tuning.
-* RAG Architecture: Implementing Retrieval-Augmented Generation using vector databases and semantic search.
-* MLOps: Building automated pipelines for model versioning, testing, and deployment.
+### AI Engineering
 * Agentic Workflows: Developing autonomous systems for multi-step task execution and tool-calling.
 
 ### Polyglot Development
